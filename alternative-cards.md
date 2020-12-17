@@ -41,7 +41,7 @@ Stops ETB effects, notably Thassa's Oracle
 # Alternate Counterspells:
 Other viable counterspells with various strengths and weaknesses
 
-	Force of Negation 
+## Force of Negation 
 	-Pro: Free Defensive counter.
 	-Pro: Hits most relevant wincons and counters
 	-Pro: Exiles.
@@ -49,30 +49,30 @@ Other viable counterspells with various strengths and weaknesses
 	-Con: Can't stop creatures
 	-Con: Card disadvantage
 	
-	Negate
+## Negate
 	-Pro: Cheap to cast. 
 	-Pro: Reliably hits most relevant wincons and counters
 	-Con: Can't Stop creatures
 
-	Spell Pierce
+## Spell Pierce
 	-Pro: CMC 1
 	-Pro: Has the potential to stop most relevant wincons and counters
 	-Con: Doesn't scale well into the game.
 	-Con: Can't stop creatures
 
-	Fierce Guardianship
+## Fierce Guardianship
 	-Pro: Another potentially free counter once we have Elsha 
 	-Pro: Hits most relevant wincons and counters
 	-Con: Pretty terrible when we don't have Elsha in play
 	-Con: Can't stop creatures
 	(Note: The reason we prefer Deflecting Swat is its ability to protect our things from Abrupt Decay and Dovin's Veto)
 
-	Mana Leak
+## Mana Leak
 	-Pro: Cheap to cast.
 	-Pro: Has the potential to stop most spells.
 	-Con: Doesn't scale well into the game.
 
-	Misdirection
+## Misdirection
 	-Pro: Free interaction
 	-Pro: Can stop opposing counterspells and removal (even if uncounterable)
 	-Pro: Can cause large tempo swings by redirecting removal
@@ -80,12 +80,12 @@ Other viable counterspells with various strengths and weaknesses
 	-Con: Can't stop creatures
 	-Con: Can't stop opposing wincons
 
-	Stifle
+## Stifle
 	-Pro: CMC 1
 	-Pro: One of the only ways to interact with activated/triggered abilities
 	-Con: Really narrow
 
-	Tale's End
+## Tale's End
 	-Pro: Cheap to cast
 	-Pro: Can stop opposing commanders
 	-Pro: One of the only ways to interact with activated/triggered abilities
@@ -156,10 +156,10 @@ These are viable lands that provide utility, usually at the expense of producing
 # Additional Reducers:
 Largely useful for stormier builds
 	
-	Helm of Awakening
-	Sapphire Medallion
-	Baral, Chief of Compliance
-	Grand Arbiter Augustin IV
+* Aetherium Sculptor
+* Sapphire Medallion
+* Baral, Chief of Compliance
+* Grand Arbiter Augustin IV
 
 # Additional Rocks:
 For speed or budget concerns
@@ -173,7 +173,7 @@ For speed or budget concerns
 # Budget Alternatives:
 Some budget alternatives that can 1 to 1 sub some expensive options
 
-	Winds of Change - Wheel of Fortune (please don't)
-	Earthquake - Rolling Earthquake
-	Time Spiral - Timetwister (can only be looped with Narset's Reversal)
-	Echo of Eons - Timetwister
+* **Winds of Change** - Wheel of Fortune (please don't)
+* **Earthquake** - Rolling Earthquake
+* **Time Spiral** - Timetwister (can only be looped with Narset's Reversal)
+* **Echo of Eons** - Timetwister
