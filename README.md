@@ -4,4 +4,10 @@
 
 This repository will contain primer documents for Elsha of the Infinite (c)EDH decks.
 
+## Primary Resources
+* [Elsha's Infinite Army Discord Server](https://discord.gg/MaqnYmU)
+* [Community Primer for Elsha by FlashAndretti](https://www.moxfield.com/decks/tj910qUf9Uq-Iibp40QfKw)
+* [cEDH Decklist Database](https://cedh-decklist-database.com/)
+
+## Documents
 * [Alternative Card choices](alternative-cards.md)
