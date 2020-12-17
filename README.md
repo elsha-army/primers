@@ -1,2 +1,3 @@
-# primers
-Primer documents for Elsha of the Infinite (c)EDH decks
+# Elsha's Infinite Army documentation hub
+
+This repository will contain primer documents for Elsha of the Infinite (c)EDH decks.
